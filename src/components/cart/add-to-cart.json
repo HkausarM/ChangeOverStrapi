@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_cart_add_to_carts",
+  "info": {
+    "displayName": "Add to cart",
+    "icon": "shoppingCart"
+  },
+  "options": {},
+  "attributes": {
+    "ProductName": {
+      "type": "json"
+    }
+  }
+}
